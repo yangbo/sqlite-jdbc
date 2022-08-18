@@ -13,6 +13,14 @@
 
 - 创建时间：2022-08-18 10:00
 
+# 开发笔记
+
+## 编译
+
+怎么编译这个项目呢？
+
+可以参考 https://github.com/xerial/sqlite-jdbc/blob/master/CONTRIBUTING.md 中的说明进行。
+
 # SQLite JDBC Driver
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/xerial/sqlite-jdbc/CI/master)](https://github.com/xerial/sqlite-jdbc/actions/workflows/test.yml?query=branch%3Amaster)
 [![Join the chat at https://gitter.im/xerial/sqlite-jdbc](https://badges.gitter.im/xerial/sqlite-jdbc.svg)](https://gitter.im/xerial/sqlite-jdbc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
