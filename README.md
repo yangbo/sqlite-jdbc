@@ -1,3 +1,18 @@
+# 简介
+
+这个项目 fork 自 xerial/sqlite-jdbc，因为我们需要给SQLite-JDBC添加加密能力，并做一些优化。
+
+# 目标
+
+- 让 SQLite 支持加密、并支持方便地实现自定义加密函数
+- 减小 sqlite-jdbc jar 尺寸，对每个平台单独提供 dll
+
+# 历史
+
+这里打一个卡，看完成这些目标需要花多长时间。
+
+- 创建时间：2022-08-18 10:00
+
 # SQLite JDBC Driver
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/xerial/sqlite-jdbc/CI/master)](https://github.com/xerial/sqlite-jdbc/actions/workflows/test.yml?query=branch%3Amaster)
 [![Join the chat at https://gitter.im/xerial/sqlite-jdbc](https://badges.gitter.im/xerial/sqlite-jdbc.svg)](https://gitter.im/xerial/sqlite-jdbc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
